@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun-21" alt="shagun-21" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Flutter, Javascript**
+- 🌱 I’m currently learning **MERN, Flutter, Javascript , Spring Boot**
 
 - 💬 Ask me about **flutter,android,html,css**
 
