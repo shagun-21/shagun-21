@@ -1,23 +1,72 @@
 <h1 align="center">Hi 👋, I'm Shagun Chaturvedi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Backend & AI Engineer building real-world systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun-21&label=Profile%20views&color=0e75b6&style=flat" alt="shagun-21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun-21" alt="shagun-21" /></a> </p>
-
-- 🌱 I’m currently learning **MERN, Flutter, Javascript , Spring Boot**
-
-- 💬 Ask me about **flutter,android,html,css**
-
-- 📫 How to reach me **shagun2001ch@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shagun-21&label=Profile%20views&color=0e75b6&style=flat" alt="shagun-21" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shagun-21&show_icons=true&locale=en&layout=compact" alt="shagun-21" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagun-21&" alt="shagun-21" /></p>
+- 🔧 Backend developer with experience in production systems using Spring Boot  
+- 🤖 Building AI agents, workflow automation, and LLM-powered applications  
+- ⚙️ Experienced in designing APIs, state management, and scalable systems  
+- 🌱 Currently exploring advanced AI systems and agent orchestration  
+
+---
+
+### 💡 What I Work On
+
+- AI Agents (LLMs, workflows, automation)
+- Backend Systems (APIs, architecture, data handling)
+- Conversation systems (WhatsApp bots, Voice agents)
+- AI-powered analytics & insights systems  
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend**
+- Java, Spring Boot, REST APIs  
+- Python, FastAPI  
+
+**AI / Automation**
+- LangChain, LLMs, Prompt Engineering  
+- n8n (workflow automation)  
+- Vector search, RAG systems  
+
+**Database & Tools**
+- MySQL, MongoDB  
+- Git, Postman  
+- Linux  
+
+**Frontend (Working knowledge)**
+- Flutter, HTML, CSS  
+
+---
+
+### 📌 Featured Work
+
+- 🤖 AI-powered WhatsApp & Voice Agent (workflow automation + LLMs)
+- 🏢 Gram Parivartan (Spring Boot backend for production app)
+- 📊 Conversation Insights Engine (AI-driven analytics system)
+
+---
+
+### 📫 Reach Me
+
+- Email: shagun2001ch@gmail.com  
+- Portfolio: (add your domain here)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shagun-21&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagun-21&" />
+</p>
